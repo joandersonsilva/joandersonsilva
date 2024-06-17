@@ -1,8 +1,23 @@
-## 👋🏻 **Joanderson Silva - @joandersonsilva**
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Olá, meu nome é Joanderson Silva sou apaixoando por programação desde os meus 13 anos, comecei com desenvolvimento web depois fui para desenvolvimento para desktop com a linguagem **C# .Net**. Atualmente estou aprendendo sobre desenvolvimento FullStack. Sempre busco obter mais conhecimento, e me atualizar das tecnologias mais recente.
+<p align="left"> 
+  Olá Mundo🌍, meu nome é Joanderson Silva, sou entusiasta de tecnologia e sempre estou buscando novos conhecimentos.<br>
+  Atualmente estou tentando entrar no mercado de Desenvolvimento, para isso estou me preparando para vagas de FullStack.
+</p>
 
-### 📍 Me acompanhe também:
+<p align="left">
+  💻 Linguagens: **Python, JavaScript, HTML, CSS, SQL, ShellScript**
+</p>
 
-- Instagram: https://instagram.com/joanderson.sh
-- Linkedin: https://linkedin.com/in/JoandersonFSilva
+<p align="left">
+  💼 Ferramentas: **VSCode, Insomnia, Postman, DBeaver, Git**
+</p>
+
+<p align="left">
+  Entre em contato comigo: ⤵️
+</p>
+
+[![Linkedin](https://img.shields.io/badge/-Joanderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/joandersonfsilva)](https://br.linkedin.com/in/joandersonfsilva)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joandersonsilva222@gmail.com)](mailto:joandersonsilva222@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/joandersonsilva?label=follow&style=social)](https://github.com/joandersonsilva)
+
